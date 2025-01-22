@@ -1,7 +1,7 @@
 import {v} from "convex/values";
 import {mutation, query } from "./_generated/server";
 
-export const getUserById = query({
+export const getUserById = query({// for getting single user
     args : {
       userId : v.string()
     },

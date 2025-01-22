@@ -7,7 +7,7 @@ import { useEffect } from "react";
 
 export default function SyncUserWithConvex() {
   const { user } = useUser();
-  const updateUser = useMutation(api.users.updateUser);
+  const updateUser = useMutation(api.users.updateUser); // here users is file name(users.ts) that we given in convex folder, and updateUser is function created in that file
 
   useEffect(() => {
     if (!user) return;
