@@ -8,9 +8,7 @@ import { CalendarDays, Ticket } from "@/node_modules/lucide-react";
 import EventCard from "./EventCard";
 
 const EventList = () => {
-  const events = useQuery(api.events.getAllEvents);
-
-  console.log(events);
+  const events = useQuery(api.events.getAllEvents) || [];
 
   if (!events) {
     return (
