@@ -1,93 +1,92 @@
 [
-    {
-      "name": "Taylor Swift | The Eras Tour",
-      "description": "Experience Taylor Swift's record-breaking Eras Tour live!",
-      "price": 499.99,
-      "totalTickets": 100,
-      "location": "MetLife Stadium, New Jersey", 
-      "eventDate": 1723845600000,
-      "userId": "user_2bFMHkGxZPWVVyJ5QEJQxfsCkxB"
-    },
-    {
-      "name": "NBA Finals 2024 - Game 1",
-      "description": "Witness the opening game of the NBA Finals!",
-      "price": 899.99,
-      "totalTickets": 50,
-      "location": "Madison Square Garden, New York",
-      "eventDate": 1717891200000,
-      "userId": "user_2bFMHkGxZPWVVyJ5QEJQxfsCkxB"
-    },
-    {
-      "name": "Hamilton - Broadway",
-      "description": "Don't miss the award-winning musical phenomenon!",
-      "price": 299.99,
-      "totalTickets": 75,
-      "location": "Richard Rodgers Theatre, New York",
-      "eventDate": 1721788200000,
-      "userId": "user_2dOPKmMyZRXXazL7SGLSzhsEmzD"
-    },
-    {
-      "name": "Coldplay World Tour",
-      "description": "Join Coldplay for an unforgettable night of music!",
-      "price": 150.00,
-      "totalTickets": 200,
-      "location": "Wembley Stadium, London",
-      "eventDate": 1726012800000,
-      "userId": "user_2dOPKmMyZRXXazL7SGLSzhsEmzD"
-    },
-    {
-      "name": "Comic Con 2024",
-      "description": "The ultimate pop culture convention!",
-      "price": 85.00,
-      "totalTickets": 1000,
-      "location": "Javits Center, New York",
-      "eventDate": 1728172800000,
-      "userId": "user_2dOPKmMyZRXXazL7SGLSzhsEmzD"
-    }
-    ,
-    {
-      "name": "Ed Sheeran Mathematics Tour",
-      "description": "An intimate evening with Ed Sheeran performing his greatest hits",
-      "price": 125.00,
-      "totalTickets": 150,
-      "location": "O2 Arena, London",
-      "eventDate": 1729382400000,
-      "userId": "user_2eRTLnPxYQWWbzM8THMTaisFnzE"
-    },
-    {
-      "name": "Premier League: Arsenal vs Manchester United",
-      "description": "A classic Premier League rivalry match at the Emirates",
-      "price": 199.99,
-      "totalTickets": 60,
-      "location": "Emirates Stadium, London",
-      "eventDate": 1722393600000,
-      "userId": "user_2fQUMpNzXSVVczN9UINUbjsGozF"
-    },
-    {
-      "name": "Adele: Weekend with Adele",
-      "description": "Adele's spectacular Las Vegas residency show",
-      "price": 450.00,
-      "totalTickets": 80,
-      "location": "Caesars Palace, Las Vegas",
-      "eventDate": 1724985600000,
-      "userId": "user_2gPVNqOyYTWWdzO0VJOVcktHpzG"
-    },
-    {
-      "name": "Wimbledon 2024 - Men's Final",
-      "description": "The culmination of the world's most prestigious tennis tournament",
-      "price": 750.00,
-      "totalTickets": 40,
-      "location": "Centre Court, All England Club, London",
-      "eventDate": 1720578600000,
-      "userId": "user_2hQWOrPzZUXXezP1WKPWdluIqzH"
-    },
-    {
-      "name": "Harry Potter and the Cursed Child",
-      "description": "The eighth story in the Harry Potter series comes to life on stage",
-      "price": 175.00,
-      "totalTickets": 100,
-      "location": "Palace Theatre, London",
-      "eventDate": 1727222400000,
-      "userId": "user_2iRXPsQAaVYYfAQ2XLQXemvJrzI"
-    }
-  ]
+  {
+    "name": "Arijit Singh Live - Mumbai",
+    "description": "Experience a soulful evening with Arijit Singh performing his greatest hits.",
+    "price": 2500.00,
+    "totalTickets": 500,
+    "location": "Jio World Garden, Mumbai",
+    "eventDate": 1723845600000,
+    "userId": "user_3aINDMumbaiASL"
+  },
+  {
+    "name": "IPL 2025 Finals",
+    "description": "Witness the excitement of the Indian Premier League Final live!",
+    "price": 5000.00,
+    "totalTickets": 100,
+    "location": "Narendra Modi Stadium, Ahmedabad",
+    "eventDate": 1717891200000,
+    "userId": "user_3bINDAhmedabadIPL"
+  },
+  {
+    "name": "Sunburn Festival 2024",
+    "description": "Asia's biggest EDM festival featuring global and local artists.",
+    "price": 3500.00,
+    "totalTickets": 1000,
+    "location": "Hilltop, Vagator, Goa",
+    "eventDate": 1728172800000,
+    "userId": "user_3cINDGoaSunburn"
+  },
+  {
+    "name": "Bollywood Night with Neha Kakkar",
+    "description": "Enjoy a glamorous Bollywood night with Neha Kakkar live on stage.",
+    "price": 1500.00,
+    "totalTickets": 400,
+    "location": "Phoenix Marketcity, Bangalore",
+    "eventDate": 1726012800000,
+    "userId": "user_3dINDBangaloreNK"
+  },
+  {
+    "name": "MS Dhoni - A Tribute Screening",
+    "description": "Relive the glorious moments of MS Dhoni’s cricketing career with a documentary screening.",
+    "price": 500.00,
+    "totalTickets": 300,
+    "location": "PVR ICON, Chennai",
+    "eventDate": 1729382400000,
+    "userId": "user_3eINDChennaiMSD"
+  },
+  {
+    "name": "Kabir Cafe Live",
+    "description": "Experience the fusion of Kabir's dohas and contemporary music.",
+    "price": 1200.00,
+    "totalTickets": 250,
+    "location": "India Habitat Centre, Delhi",
+    "eventDate": 1721788200000,
+    "userId": "user_3fINDDelhiKabir"
+  },
+  {
+    "name": "India vs Australia Test Match",
+    "description": "Watch Team India battle it out against Australia in a thrilling test match.",
+    "price": 3500.00,
+    "totalTickets": 300,
+    "location": "Eden Gardens, Kolkata",
+    "eventDate": 1722393600000,
+    "userId": "user_3gINDKolkataINDvsAUS"
+  },
+  {
+    "name": "Amit Trivedi - Live in Concert",
+    "description": "Join Amit Trivedi for a mesmerizing musical journey.",
+    "price": 2000.00,
+    "totalTickets": 200,
+    "location": "Shilpakala Vedika, Hyderabad",
+    "eventDate": 1724985600000,
+    "userId": "user_3hINDHyderabadAT"
+  },
+  {
+    "name": "Spic Macay - Classical Night",
+    "description": "Immerse yourself in the magic of classical Indian music and dance.",
+    "price": 1000.00,
+    "totalTickets": 150,
+    "location": "Kalakshetra, Chennai",
+    "eventDate": 1727222400000,
+    "userId": "user_3iINDChennaiClassical"
+  },
+  {
+    "name": "Rajasthan International Folk Festival",
+    "description": "Celebrate the rich folk traditions of Rajasthan at this global music festival.",
+    "price": 2500.00,
+    "totalTickets": 600,
+    "location": "Mehrangarh Fort, Jodhpur",
+    "eventDate": 1720578600000,
+    "userId": "user_3jINDJodhpurRIFF"
+  }
+]
