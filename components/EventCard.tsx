@@ -20,10 +20,9 @@ import PurchaseTicket from "./PurchaseTicket";
 
 const EventCard = ({ eventId }: { eventId: Id<"events"> }) => {
   const { user } = useUser();
-  console.log(user);
   const router = useRouter();
   const event = useQuery(api.events.getEventById, { eventId });
-  const eventAvailablity = useQuery(api.events.getEventAvailablity, {
+  const eventAvailablity = useQuery(api.events.getEventAvailability, {
     eventId,
   });
   const userTicket = useQuery(api.tickets.getUserTicketForEvent, {

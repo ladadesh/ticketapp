@@ -19,7 +19,7 @@ export const getEventById = query({
     }
 })
 
-export const getEventAvailablity = query({
+export const getEventAvailability = query({
     args: {eventId :  v.id("events")},
     handler : async (ctx,{eventId}) => {
         const event = await ctx.db.get(eventId);
